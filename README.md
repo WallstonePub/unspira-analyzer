@@ -3,15 +3,20 @@ A transparent, non-binary media integrity analysis system. Unspira decomposes cl
 
 ## Overview
 This repository contains public documentation, analytical frameworks, and white papers
-describing the Unspira Analyzer and its public-facing kernels. It is not a software package.
+describing the Unspira system and its public-facing components. It is not a software package
+and does not include the full Unspira Analyzer implementation.
 
-## Start Here
-- **Unspira Headlines Analyzer 5.2** — A lightweight, public-facing kernel for structured analysis of headlines and viral claims.
-- **Unspira Analyzer 5.2** — The full modular system for media, historical, and social integrity analysis.
+## Public Materials
+- **Unspira Headlines Analyzer 5.2** — A lightweight, public-facing analysis kernel for structured evaluation of headlines and viral claims.
+- **White Papers** — Architectural and methodological descriptions of the broader Unspira Analyzer system.
 
 ## Scope
 Unspira provides structured analysis and context. It does not generate opinions,
 advocacy, or ideological conclusions.
+
+## Availability
+The full Unspira Analyzer system is not publicly released. This repository publishes
+methodology and analysis standards only.
 
 ## License
 Unless otherwise noted, all documentation, frameworks, and white papers in this repository
