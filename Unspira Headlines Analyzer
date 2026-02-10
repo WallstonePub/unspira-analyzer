@@ -1,0 +1,125 @@
+# Unspira Headlines Analyzer
+
+### A Structured Method for Evaluating Headlines and Viral Claims
+
+## Executive Summary
+
+Public understanding of news is increasingly shaped by **headlines, viral claims, and short-form content**, rather than full reporting or primary sources. Traditional fact-checking approaches often fail in this environment because they rely on binary verdicts, opaque reasoning, or ideological framing.
+
+The **Unspira Headlines Analyzer** defines a **structured, non-partisan analytical model** for evaluating headlines and viral claims using transparent criteria. Rather than declaring truth or falsehood, it decomposes claims into measurable dimensions—accuracy, framing, source credibility, consensus, and amplification—so readers can understand *what is known, what is missing, and why context matters*.
+
+This paper describes the **analytical approach** behind the Headlines Analyzer. It does not disclose operational logic, scoring engines, or implementation details.
+
+------
+
+## The Problem: Headlines as Primary Information
+
+In modern media ecosystems:
+
+- Headlines are often consumed without full articles
+- Viral framing frequently outpaces correction
+- Emotion and urgency substitute for evidence
+- Context is lost through compression
+
+Binary fact-checks struggle under these conditions. A claim may be:
+
+- technically accurate yet misleading
+- incomplete yet widely shared
+- novel yet prematurely dismissed
+- amplified by unreliable actors
+
+Unspira addresses this gap by treating **integrity as a spectrum**, not a verdict.
+
+------
+
+## Design Goals
+
+The Headlines Analyzer is built around four goals:
+
+1. **Clarity over persuasion**
+   Outputs must explain reasoning, not compel belief.
+2. **Non-binary evaluation**
+   Claims are assessed across multiple dimensions rather than collapsed into “true” or “false.”
+3. **Human readability**
+   Results must be understandable without technical expertise.
+4. **Transparency of method**
+   Readers should be able to see *why* a conclusion was reached.
+
+------
+
+## Analytical Dimensions
+
+The model evaluates claims using complementary analytical lenses:
+
+- **Reality Check Matrix (RCM)**
+  Examines factual accuracy, framing, tone, and transparency independently.
+- **Source Evaluation**
+  Assesses credibility based on institutional behavior, transparency, and historical reliability.
+- **Impact–Confidence–Ease (ICE)**
+  Weighs public significance, evidentiary strength, and comprehension cost.
+- **Consensus Assessment**
+  Measures agreement among credible outlets rather than popularity.
+- **Social Amplification Review**
+  Considers who is spreading the claim and how amplification affects perception.
+- **Historical Source Classification**
+  Distinguishes primary records from interpretive or symbolic narratives.
+
+Each dimension addresses a known failure mode in headline-driven information environments.
+
+------
+
+## Handling Novelty and Uncertainty
+
+Novel claims are neither accepted nor dismissed by default.
+
+Instead:
+
+- novelty increases evidentiary thresholds
+- uncertainty is explicitly labeled
+- missing data is identified rather than inferred
+
+This prevents both premature validation and reflexive skepticism.
+
+------
+
+## Output Philosophy
+
+The Headlines Analyzer produces:
+
+- structured summaries
+- contextual explanations
+- plain-language verdict ranges
+
+It does **not**:
+
+- write editorials
+- advocate positions
+- speculate beyond evidence
+- replace human judgment
+
+------
+
+## Availability Notice
+
+This document describes the **analytical approach and design philosophy** of the Unspira Headlines Analyzer.
+The underlying scoring systems, internal models, and operational logic are **not publicly released**.
+
+------
+
+## Conclusion
+
+The Unspira Headlines Analyzer exists to help readers understand **how claims function**, not what they must believe.
+
+By decomposing headlines into evidence, framing, consensus, and amplification, it restores context where compression has erased it.
+
+Clarity, not authority, is the objective.
+
+------
+
+### Attribution
+
+© Wallstone Publishing Company. Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+------
+
+------
